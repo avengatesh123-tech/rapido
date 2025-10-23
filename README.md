@@ -1,19 +1,40 @@
-# 🚖 Rapido Data Analytics Project
 
-📊 This Power BI project analyzes July 2025 Rapido rides dataset, showing:
-- Ride volume trends
-- Revenue insights
-- Driver performance
-- Customer satisfaction
+🚖 Rapido Data Analytics Project
 
-🛠️ Tools Used:
-- Power BI
-- Excel / CSV Dataset
-- DAX Measures
-- Data Visualization & KPIs
+📊 Overview:
+This Power BI project provides deep insights into Rapido rides (July 2025), analyzing key performance indicators like:
 
-📁 File Included:
-- `rapido_analysis_july2025.pbix`
-- Dataset CSV file
-- Dashboard screenshots
+📈 Ride Volume Trends — daily and weekly booking growth
 
+💰 Revenue Insights — total revenue, avg. ride cost, and profitability metrics
+
+👨‍✈️ Driver Performance — ratings, total rides, and efficiency
+
+😀 Customer Satisfaction — average feedback score and ride experience analysis
+
+
+🛠️ Tools & Technologies Used:
+
+🔹 Power BI (Dashboard & DAX Measures)
+
+🔹 Excel / CSV Dataset
+
+🔹 Data Cleaning & Transformation
+
+🔹 KPI Cards & Interactive Visualizations
+
+
+📁 Files Included:
+
+rapido_analysis_july2025.pbix
+
+rapido_dataset_july2025.csv
+
+Dashboard Screenshots
+
+
+🔗 Dataset Download Link:
+📥 Click here to download the dataset (Upload your CSV to Google Drive or GitHub and paste the real link here)
+
+👨‍💼 Connect with me on LinkedIn:
+👉 
